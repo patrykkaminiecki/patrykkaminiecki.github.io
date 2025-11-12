@@ -6,22 +6,26 @@ description: >
   </div>
 
   <br><br>
-  Business Analyst | Data Transformation & Reporting Expert (Power BI, Tableau, SQL) | 10+ Years in Financial Services  
+  <div style="text-align:center;">
+    Business Analyst | Data Transformation & Reporting Expert (Power BI, Tableau, SQL) | 10+ Years in Financial Services
+  </div>
 
   <br><br>
   <div style="text-align:center;">
-    <a href="https://www.linkedin.com/in/patrykkaminiecki/" target="_blank">
+    <a href="https://www.linkedin.com/in/patrykkaminiecki/" target="_blank"
+       style="display:inline-block; background-color:#0077B5; color:white; padding:10px 20px; 
+              text-decoration:none; border-radius:5px; font-weight:bold; margin:5px;">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-           alt="LinkedIn" width="30" height="30" style="vertical-align:middle; border-radius:5px;">
-      &nbsp; View My Profile
+           alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:8px;">
+      View My Profile
     </a>
-    &nbsp;&nbsp;
-    <a href="mailto:PatrykKaminiecki@gmail.com">
+    <a href="mailto:PatrykKaminiecki@gmail.com"
+       style="display:inline-block; background-color:#444; color:white; padding:10px 20px; 
+              text-decoration:none; border-radius:5px; font-weight:bold; margin:5px;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-           alt="Email" width="30" height="30" style="vertical-align:middle;">
-      &nbsp; Contact Me
+           alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:8px;">
+      Contact Me
     </a>
   </div>
-
 google_analytics: GTM-MHD4RLFF
 theme: jekyll-theme-minimal

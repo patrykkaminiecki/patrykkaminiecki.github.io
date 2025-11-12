@@ -1,12 +1,16 @@
 title: "Patryk Kaminiecki"
-logo: ""
 description: >
-  <img src="Me.jpg?raw=true" alt="Patryk Kaminiecki" style="border-radius:50%; width:150px; height:150px;">
+  <div style="text-align:center;">
+    <img src="Me.jpg?raw=true" alt="Patryk Kaminiecki"
+         style="border-radius:50%; width:150px; height:150px;">
+  </div>
 
   <br><br>
   Business Analyst | Data Transformation & Reporting Expert (Power BI, Tableau, SQL) | 10+ Years in Financial Services  
 
   <br><br>
-  <a href="https://www.linkedin.com/in/patrykkaminiecki/">View My LinkedIn Profile</a>
+  <div style="text-align:center;">
+    <a href="https://www.linkedin.com/in/patrykkaminiecki/">View My LinkedIn Profile</a>
+  </div>
 google_analytics: GTM-MHD4RLFF
 theme: jekyll-theme-minimal

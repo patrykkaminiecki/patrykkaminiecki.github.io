@@ -12,13 +12,13 @@ description: >
   <div style="text-align:center;">
     <a href="https://www.linkedin.com/in/patrykkaminiecki/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-           alt="LinkedIn" width="30" height="30" style="border-radius:5px;">
+           alt="LinkedIn" width="30" height="30" style="vertical-align:middle; border-radius:5px;">
+      &nbsp; View My Profile
     </a>
-
-  </div>
-  <br><br>
-  <div style="text-align:center;">
-    ✉️ [Contact Me](mailto:PatrykKaminiecki@gmail.com)
+    &nbsp;&nbsp;
+    <a href="mailto:PatrykKaminiecki@gmail.com">
+      ✉️ Contact Me
+    </a>
   </div>
 google_analytics: GTM-MHD4RLFF
 theme: jekyll-theme-minimal

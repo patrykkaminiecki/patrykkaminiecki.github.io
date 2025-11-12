@@ -17,8 +17,11 @@ description: >
     </a>
     &nbsp;&nbsp;
     <a href="mailto:PatrykKaminiecki@gmail.com">
-      ✉️ Contact Me
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+           alt="Email" width="30" height="30" style="vertical-align:middle;">
+      &nbsp; Contact Me
     </a>
   </div>
+
 google_analytics: GTM-MHD4RLFF
 theme: jekyll-theme-minimal

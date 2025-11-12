@@ -1,13 +1,11 @@
-# 📊 Patryk Kaminiecki
-
 ## 💼 Experience
 
-### **Banqsoft, Gdańsk**  
+### Banqsoft, Gdańsk  
 **Business Analyst** (2025–Present)  
 - Collaborate with Product Manager, Product Owner, and Business Analysts to deliver client-specific solutions.  
 - Work closely with development teams to ensure successful implementation.  
 
-### **State Street, Gdańsk**  
+### State Street, Gdańsk  
 **Reporting Analyst** (2022–2025)  
 - Automated Tableau Server reporting, reducing generation time from 1 week to 1 hour.  
 - Designed a global portfolio reporting model in Power BI with automated ETL processes.  
@@ -23,7 +21,7 @@
 - Created KPIs for fund performance, reducing risk assessment time by 40%.  
 - Maintained 99% accuracy in fund valuation audits.  
 
-### **Transcom Worldwide, Gdańsk**  
+### Transcom Worldwide, Gdańsk  
 **Verification Specialist** (2010–2015)  
 - Led verification projects for Citi Handlowy credit card sales with 98% accuracy.  
 - Designed case tracking systems, improving response time by 40%.  
@@ -64,3 +62,49 @@
 - AgilePM Foundation (APMG International, 2018)  
 - Financial Controller (MEN, 2016)  
 - Master of Excel (2015)  
+
+---
+
+## 🚀 Projects
+
+### 1. Sales and Customer Dashboard  
+🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about KPIs, insights, and business value.*
+
+---
+
+### 2. Plant Co. Performance Dashboard  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about performance metrics and analysis.*
+
+---
+
+### 3. Sales Performance Dashboard  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about sales trends and forecasting.*
+
+---
+
+### 4. Seats Utilization Dashboard  
+🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about utilization rates and optimization.*
+
+---
+
+## ✨ Highlights
+
+- Reduced reporting time by **99%** through automation.  
+- Delivered KPI-driven dashboards for **global portfolio management**.  
+- Improved onboarding and training efficiency by **30%**.  
+- Consistently achieved **95–99% accuracy** in reporting and audits.  
+
+---
+
+## 📂 Portfolio
+
+👉 [Portfolio Link](#)  
+👉 [GitHub Repositories](#)  

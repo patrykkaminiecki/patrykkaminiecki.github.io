@@ -6,22 +6,23 @@ description: >
   </div>
 
   <br><br>
-  <div style="text-align:center;">
+  <div style="text-align:center; font-weight:bold;">
     Business Analyst | Data Transformation & Reporting Expert (Power BI, Tableau, SQL) | 10+ Years in Financial Services
   </div>
 
   <br><br>
   <div style="text-align:center;">
     <a href="https://www.linkedin.com/in/patrykkaminiecki/" target="_blank"
-       style="display:inline-block; background-color:#0077B5; color:white; padding:10px 20px; 
-              text-decoration:none; border-radius:5px; font-weight:bold; margin:5px;">
+       style="display:block; background:linear-gradient(90deg, #0066A2, #0077B5); color:white; padding:12px; 
+              text-decoration:none; border-radius:8px; font-weight:bold; margin:10px auto; width:250px;">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
            alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:8px;">
       View My Profile
     </a>
+
     <a href="mailto:PatrykKaminiecki@gmail.com"
-       style="display:inline-block; background-color:#444; color:white; padding:10px 20px; 
-              text-decoration:none; border-radius:5px; font-weight:bold; margin:5px;">
+       style="display:block; background:linear-gradient(90deg, #444, #FF0000); color:white; padding:12px; 
+              text-decoration:none; border-radius:8px; font-weight:bold; margin:10px auto; width:250px;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
            alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:8px;">
       Contact Me

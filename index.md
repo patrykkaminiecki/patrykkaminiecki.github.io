@@ -2,122 +2,123 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 📊 Patryk Kaminiecki
 
-[Link to another page](./another-page.html).
+**Business & Reporting Analyst | Data Visualization Specialist | SQL & BI Expert**
 
-There should be whitespace between paragraphs.
+📧 PatrykKaminiecki@gmail.com  
+📱 +48 791 778 710  
+🔗 [LinkedIn](#) | [Portfolio](#)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 💼 Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Banqsoft, Gdańsk  
+**Business Analyst** (2025–Present)  
+- Collaborate with Product Manager, Product Owner, and Business Analysts to deliver client-specific solutions.  
+- Work closely with development teams to ensure successful implementation.  
 
-## Header 2
+### State Street, Gdańsk  
+**Reporting Analyst** (2022–2025)  
+- Automated Tableau Server reporting, reducing generation time from 1 week to 1 hour.  
+- Designed a global portfolio reporting model in Power BI with automated ETL processes.  
+- Built office space utilization dashboards in Tableau for senior management.  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Business Analyst** (2019–2022)  
+- Led EMEA-wide technology implementation projects, reducing manual errors by 70%.  
+- Developed documentation and training, cutting onboarding time by 30%.  
+- Enhanced Power BI dashboards based on stakeholder feedback, improving usability by 50%.  
 
-### Header 3
+**Fund Accountant, Gdańsk/Kraków** (2015–2019)  
+- Streamlined accounting tasks with data-driven reporting, boosting efficiency by 20%.  
+- Created KPIs for fund performance, reducing risk assessment time by 40%.  
+- Maintained 99% accuracy in fund valuation audits.  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Transcom Worldwide, Gdańsk  
+**Verification Specialist** (2010–2015)  
+- Led verification projects for Citi Handlowy credit card sales with 98% accuracy.  
+- Designed case tracking systems, improving response time by 40%.  
+- Built dashboards for KPI monitoring, increasing efficiency by 25%.  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## 🎓 Education
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Master of Banking and Financial Advisory**, University of Gdańsk (2012–2014)  
+- **Bachelor of Finance and Accounting**, University of Gdańsk (2009–2012)  
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🛠️ Technical Skills
 
-###### Header 6
+- **Data Visualization**: Tableau, Power BI  
+- **Data Management**: SQL, ETL Process Design  
+- **Productivity Tools**: Excel (Advanced), Microsoft Office  
+- **Methodologies**: Agile PM  
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## 🌐 Languages
 
-* * *
+- Polish (Native)  
+- English (Advanced – C1)  
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## 📜 Certifications
 
-### And an ordered list:
+- SQL Programming (NASBA, 2024)  
+- SQL Essential Training (NASBA, 2024)  
+- Data Visualization for Data Analysis and Analytics (IIBA, 2024)  
+- Tableau Essential Training (NASBA, 2024)  
+- Change Management Foundation (APMG International, 2019)  
+- AgilePM Foundation (APMG International, 2018)  
+- Financial Controller (MEN, 2016)  
+- Master of Excel (2015)  
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+## 🚀 Projects
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### 1. Sales and Customer Dashboard  
+🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about KPIs, insights, and business value.*
 
-### Small image
+---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### 2. Plant Co. Performance Dashboard  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about performance metrics and analysis.*
 
-### Large image
+---
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### 3. Sales Performance Dashboard  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about sales trends and forecasting.*
 
+---
 
-### Definition lists can be used with HTML syntax.
+### 4. Seats Utilization Dashboard  
+🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about utilization rates and optimization.*
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+---
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## ✨ Highlights
 
-```
-The final element.
-```
+- Reduced reporting time by **99%** through automation.  
+- Delivered KPI-driven dashboards for **global portfolio management**.  
+- Improved onboarding and training efficiency by **30%**.  
+- Consistently achieved **95–99% accuracy** in reporting and audits.  
+
+---
+
+## 📂 Portfolio
+
+👉 [Portfolio Link](#)  
+👉 [GitHub Repositories](#)  

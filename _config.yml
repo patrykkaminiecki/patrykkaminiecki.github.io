@@ -11,30 +11,60 @@ description: >
   </div>
 
   <br>
-  <div style="text-align:center; font-size:14px; font-family:cursive; font-weight:normal; color:#555;">
+  <div style="text-align:center; font-size:13px; font-family:cursive; font-weight:normal; color:#555;">
     I’m open to freelance collaborations and consulting projects. Feel free to reach out via LinkedIn or email.
   </div>
 
   <br><br>
-  <div style="display:flex; flex-direction:column; align-items:center; gap:12px;">
+  <div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
     <a href="https://www.linkedin.com/in/patrykkaminiecki/" target="_blank"
        style="display:flex; align-items:center; justify-content:center; 
               background:linear-gradient(90deg, #004182, #0077B5); color:white; 
-              padding:14px 20px; text-decoration:none; border-radius:8px; 
-              font-weight:bold; width:280px; box-shadow:0 4px 8px rgba(0,0,0,0.15); font-size:15px;">
+              padding:10px 16px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-           alt="LinkedIn" width="22" height="22" style="margin-right:10px;">
+           alt="LinkedIn" width="20" height="20" style="margin-right:8px;">
       View My Profile
     </a>
 
     <a href="mailto:PatrykKaminiecki@gmail.com"
        style="display:flex; align-items:center; justify-content:center; 
               background:linear-gradient(90deg, #444, #cc0000); color:white; 
-              padding:14px 20px; text-decoration:none; border-radius:8px; 
-              font-weight:bold; width:280px; box-shadow:0 4px 8px rgba(0,0,0,0.15); font-size:15px;">
+              padding:10px 16px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-           alt="Email" width="22" height="22" style="margin-right:10px;">
+           alt="Email" width="20" height="20" style="margin-right:8px;">
       Contact Me
+    </a>
+
+    <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank"
+       style="display:flex; align-items:center; justify-content:center; 
+              background:linear-gradient(90deg, #6fda44, #3c9d3c); color:white; 
+              padding:10px 16px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" 
+           alt="Upwork" width="20" height="20" style="margin-right:8px;">
+      Upwork
+    </a>
+
+    <a href="https://www.fiverr.com/yourprofile" target="_blank"
+       style="display:flex; align-items:center; justify-content:center; 
+              background:linear-gradient(90deg, #1dbf73, #0d7a4f); color:white; 
+              padding:10px 16px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968703.png" 
+           alt="Fiverr" width="20" height="20" style="margin-right:8px;">
+      Fiverr
+    </a>
+
+    <a href="https://useme.com/pl/profiles/yourprofile" target="_blank"
+       style="display:flex; align-items:center; justify-content:center; 
+              background:linear-gradient(90deg, #0056b3, #003366); color:white; 
+              padding:10px 16px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732217.png" 
+           alt="Useme" width="20" height="20" style="margin-right:8px;">
+      Useme
     </a>
   </div>
 google_analytics: GTM-MHD4RLFF

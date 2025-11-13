@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 1. Sales and Customer Dashboard [Tableau]  
+## 1. Sales and Customer Dashboard [Tableau]  
 🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ✍️ This project features two interactive Tableau dashboards designed to analyze customer behavior and sales performance with year‑over‑year comparisons.
@@ -21,7 +21,7 @@ layout: default
 
 ---
 
-### 2. Plant Co. Performance Dashboard [Power BI] 
+## 2. Plant Co. Performance Dashboard [Power BI] 
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
  
 ✍️ An interactive Power BI dashboard analyzing Plant Co.’s performance over three years, with a focus on profitability trends across products, geographies, and time.
@@ -36,7 +36,7 @@ layout: default
 
 ---
 
-### 3. Sales Performance Dashboard [Power BI] 
+## 3. Sales Performance Dashboard [Power BI] 
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
 
 ✍️ An interactive Power BI dashboard providing a high‑level overview of global sales performance, market distribution, and order prioritization.
@@ -53,7 +53,7 @@ layout: default
 
 ---
 
-### 4. Seats Utilization Dashboard [Tableau] 
+## 4. Seats Utilization Dashboard [Tableau] 
 🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   
 ✍️ A Tableau dashboard designed to monitor workspace occupancy across multiple office locations in 2024, providing actionable insights for space optimization and resource planning.

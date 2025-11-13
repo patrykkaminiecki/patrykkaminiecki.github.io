@@ -16,13 +16,14 @@ description: >
   </div>
 
   <br><br>
-  <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px; justify-items:center;">
+  <!-- kontener na guziki -->
+  <div style="display:grid; grid-template-columns:repeat(2, 150px); gap:12px; justify-content:center;">
 
     <a href="https://www.linkedin.com/in/patrykkaminiecki/" target="_blank"
        style="display:flex; align-items:center; justify-content:center;
               background:#0077B5; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
-              width:140px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:12px;">
+              font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
            alt="LinkedIn" width="16" height="16" style="margin-right:6px;">
       LinkedIn
@@ -32,7 +33,7 @@ description: >
        style="display:flex; align-items:center; justify-content:center;
               background:#cc0000; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
-              width:140px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:12px;">
+              font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
            alt="Email" width="16" height="16" style="margin-right:6px;">
       Email
@@ -42,7 +43,7 @@ description: >
        style="display:flex; align-items:center; justify-content:center;
               background:#3c9d3c; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
-              width:140px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:12px;">
+              font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
            alt="Upwork" width="16" height="16" style="margin-right:6px;">
       Upwork
@@ -52,7 +53,7 @@ description: >
        style="display:flex; align-items:center; justify-content:center;
               background:#1dbf73; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
-              width:140px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:12px;">
+              font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968703.png"
            alt="Fiverr" width="16" height="16" style="margin-right:6px;">
       Fiverr
@@ -62,7 +63,7 @@ description: >
        style="display:flex; align-items:center; justify-content:center;
               background:#313131; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
-              width:140px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:12px;">
+              font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
       <img src="https://brandfetch.com/useme.com/icon"
            alt="Useme" width="16" height="16" style="margin-right:6px;">
       Useme

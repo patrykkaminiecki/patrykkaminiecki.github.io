@@ -4,7 +4,36 @@
 ### 1. Sales and Customer Dashboard  
 🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 📷 *[Placeholder for image]*  
-✍️ *Description placeholder – add details about KPIs, insights, and business value.*
+✍️ **Project Overview**
+This project showcases two interactive Tableau dashboards created to analyze and visualize critical business performance metrics. The focus is on customer behavior and sales performance, offering a year-over-year comparison. This dashboard was developed as a step-by-step recreation of a report guided by the "Data with Baraa" tutorial series, combining data visualization and analytical techniques.
+
+**Dashboard 1: Customer Dashboard**
+The Customer Dashboard provides an in-depth view of customer-related metrics, enabling businesses better to understand their customer base and trends over time.
+
+**Key Features:**
+Total Customers and Trends: This displays the total number of customers, along with year-over-year growth percentages. It highlights the highest—and lowest-performing months to identify seasonal patterns.
+Customer Distribution by Number of Orders: This report offers insights into how customers are segmented based on their purchasing frequency, enabling businesses to target key groups effectively.
+Top 10 Customers by Profit: Lists the most profitable customers with additional details like their last order date, total sales, and profits for better customer management.
+Interactive and Intuitive Design: Users can explore data trends and drill into specific metrics for more granular insights.
+
+**Dashboard 2: Sales Dashboard**
+The Sales Dashboard focuses on sales performance, profit analysis, and product category insights, helping businesses optimize their sales strategies.
+
+**Key Features:**
+Total Sales, Profit, and Quantity: Highlights key performance metrics, including total sales, profit, and quantity sold. It also compares these metrics year-over-year, showcasing percentage growth.
+Sales and Profit by Subcategory: Break down sales and profit by product subcategories, identifying top-performing and underperforming segments.
+Sales and Profit Trends Over Time: Visualizes weekly sales and profit trends to help identify peaks, valleys, and consistent patterns throughout the year.
+Interactive Filters: Includes interactive filters for a customized view of data by product categories or other criteria, enhancing user engagement.
+
+**Skills Demonstrated**
+Data preparation and integration in Tableau.
+Building dynamic and interactive dashboards with filters, highlights, and detailed insights.
+Visual storytelling through data to support business decision-making.
+
+**Reflection**
+Working on this project was an enjoyable and educational experience. Recreating this dashboard from the "Data with Baraa" tutorial not only strengthened my Tableau skills but also inspired me to keep learning. I’m excited to apply these techniques to future projects and take my data analysis expertise to the next level!
+
+If you're looking for hands-on Tableau learning, I highly recommend checking out the "Data with Baraa" YouTube channel!
 
 ---
 
@@ -29,7 +58,7 @@
 
 ---
 
-# Resume
+# 📝 About Me
 
 ## 💼 Experience
 

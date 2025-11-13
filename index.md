@@ -5,14 +5,14 @@
 🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ✍️ This project features two interactive Tableau dashboards designed to analyze customer behavior and sales performance with year‑over‑year comparisons.
-**- Customer Dashboard:** Tracks total customers and growth trends, segments buyers by order frequency, and highlights the top 10 most profitable clients.
-    
-  ![Customer Dashboard](images/Baraa1.png)
 
-**- Sales Dashboard:** Monitors sales, profit, and quantity, breaks down results by product subcategories, and visualizes weekly sales and profit trends.
+  **- Sales Dashboard:** Monitors sales, profit, and quantity, breaks down results by product subcategories, and visualizes weekly sales and profit trends.
     
-  ![Sales Dashboard](images/Baraa2.png)
-  
+  ![Sales Dashboard](images/Baraa1.png)
+
+  **- Customer Dashboard:** Tracks total customers and growth trends, segments buyers by order frequency, and highlights the top 10 most profitable clients.
+    
+  ![Customer Dashboard](images/Baraa2.png)
 
 🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
 
@@ -25,9 +25,9 @@
 
 ![Customer Dashboard](images/PlantCover.png)
 
-**- Performance Overview (YTD vs PYTD)**: Tracks Gross Profit, Quantity, and Sales with variance analysis to highlight growth or decline.
-**- Market Insights**: Identifies underperforming countries via treemaps and visualizes monthly KPI shifts with waterfall and line charts.
-**- Segmentation**: Breaks down profitability by product type (Indoor, Outdoor, Landscape) and categorizes accounts by GP% for strategic decision‑making.
+  **- Performance Overview (YTD vs PYTD)**: Tracks Gross Profit, Quantity, and Sales with variance analysis to highlight growth or decline.
+  **- Market Insights**: Identifies underperforming countries via treemaps and visualizes monthly KPI shifts with waterfall and line charts.
+  **- Segmentation**: Breaks down profitability by product type (Indoor, Outdoor, Landscape) and categorizes accounts by GP% for strategic decision‑making.
 
 🔎 Delivers actionable insights for optimizing sales strategies, refining market focus, and improving product performance. Demonstrates skills in Power BI data modeling, DAX, and advanced visualization design.
 
@@ -38,13 +38,13 @@
 
 ✍️ An interactive Power BI dashboard providing a high‑level overview of global sales performance, market distribution, and order prioritization.
 
-![Customer Dashboard](images/SalesCoverBI.png)
+  ![Customer Dashboard](images/SalesCoverBI.png)
 
-**- Key Metrics:** Tracks total sales, average sales, total orders, profit per order, shipped orders, and shipping costs.
-**- Visual Insights:**
-- Line chart of monthly sales trends with min/max values.
-- Pie and doughnut charts breaking down markets and product categories (Technology, Furniture, Office Supplies).
-- Bar charts highlighting performance across business segments and ranking order priorities.
+  **- Key Metrics:** Tracks total sales, average sales, total orders, profit per order, shipped orders, and shipping costs.
+  **- Visual Insights:**
+    - Line chart of monthly sales trends with min/max values.
+    - Pie and doughnut charts breaking down markets and product categories (Technology, Furniture, Office Supplies).
+    - Bar charts highlighting performance across business segments and ranking order priorities.
 
 🔎 Demonstrates skills in Power BI, advanced DAX calculations, and dynamic visualization design. Supports decision‑making by identifying market opportunities, optimizing order strategies, and improving profitability.
 
@@ -55,11 +55,11 @@
   
 ✍️ A Tableau dashboard designed to monitor workspace occupancy across multiple office locations in 2024, providing actionable insights for space optimization and resource planning.
 
-**- Summary View:** Tracks total seat utilization, usage trends over time, and weekday comparisons to identify peak and low occupancy periods.
+  **- Summary View:** Tracks total seat utilization, usage trends over time, and weekday comparisons to identify peak and low occupancy periods.
   
   ![Customer Dashboard](images/SeatUtilizationOverview.png)
   
-**- Detailed Analysis:** Offers seat‑level utilization tables with advanced filters by building, room type, and location, plus a utilization slider to spotlight under‑ or over‑used areas.
+  **- Detailed Analysis:** Offers seat‑level utilization tables with advanced filters by building, room type, and location, plus a utilization slider to spotlight under‑ or over‑used areas.
   
   ![Customer Dashboard](images/SeatDetails.png)
   

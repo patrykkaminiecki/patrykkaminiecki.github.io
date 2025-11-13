@@ -24,7 +24,7 @@ description: >
               background:#0077B5; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
               font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      <img src="images/Linkedin.png"
            alt="LinkedIn" width="16" height="16" style="margin-right:6px;">
       LinkedIn
     </a>
@@ -34,7 +34,7 @@ description: >
               background:#cc0000; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
               font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+      <img src="images/mail.png"
            alt="Email" width="16" height="16" style="margin-right:6px;">
       Email
     </a>
@@ -44,7 +44,7 @@ description: >
               background:#3c9d3c; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
               font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+      <img src="images/Upwork.png"
            alt="Upwork" width="16" height="16" style="margin-right:6px;">
       Upwork
     </a>
@@ -54,7 +54,7 @@ description: >
               background:#1dbf73; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
               font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968703.png"
+      <img src="images/Fivver.png"
            alt="Fiverr" width="16" height="16" style="margin-right:6px;">
       Fiverr
     </a>
@@ -64,7 +64,7 @@ description: >
               background:#313131; color:white; padding:6px 10px;
               text-decoration:none; border-radius:6px; font-weight:bold;
               font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
-      <img src="https://brandfetch.com/useme.com/icon"
+      <img src="images/Useme.png"
            alt="Useme" width="16" height="16" style="margin-right:6px;">
       Useme
     </a>

@@ -1,116 +1,60 @@
-# The Minimal theme
+# Patryk Kaminiecki – Portfolio
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+Welcome to my professional portfolio repository.  
+Here you’ll find a collection of my projects, dashboards, and case studies showcasing my expertise in **Business Analysis, Data Transformation, and Reporting** using **Power BI, Tableau, and SQL**.
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+---
 
-![Thumbnail of Minimal](thumbnail.png)
+## 🚀 Projects
 
-## Usage
+### 1. Sales and Customer Dashboard
+📊 Two interactive Tableau dashboards analyzing customer behavior and sales performance with year‑over‑year comparisons.  
+🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard)
 
-To use the Minimal theme:
+---
 
-1. Add the following to your site's `_config.yml`:
+### 2. Plant Co. Performance Dashboard
+🏭 Power BI dashboard providing a 3‑year profitability analysis across products, geographies, and time.  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+---
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+### 3. Sales Performance Dashboard
+💹 Power BI dashboard offering a high‑level overview of global sales metrics, market segmentation, and order prioritization.  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+---
 
-## Customizing
+### 4. Seats Utilization Dashboard
+💺 Tableau dashboard analyzing workspace occupancy across office locations, supporting space optimization and resource planning.  
+🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview)
 
-### Configuration variables
+---
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+## 💼 About Me
+I am a **Business Analyst** with over 10 years of experience in financial services, specializing in **data transformation, reporting, and visualization**.  
+I’m passionate about turning complex datasets into clear, actionable insights that drive business value.
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+---
 
-Additionally, you may choose to set the following optional variables:
+## 📬 Contact
+- 🌐 [Portfolio Website](https://patrykkaminiecki.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrykkaminiecki/)  
+- 📧 Email: PatrykKaminiecki@gmail.com  
+- 🟢 [Upwork](https://www.upwork.com/freelancers/~yourprofile)  
+- 🟢 [Fiverr](https://www.fiverr.com/yourprofile)  
+- 🟢 [Useme](https://useme.com/pl/profiles/yourprofile)
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+---
 
-### Stylesheet
+## ⚡ Skills
+- **Data Visualization:** Tableau, Power BI  
+- **Data Management:** SQL, ETL Process Design  
+- **Methodologies:** Agile PM  
+- **Productivity Tools:** Excel (Advanced), Microsoft Office  
 
-If you'd like to add your own custom styles:
+---
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
-
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
-
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
-
-### Customizing Google Analytics code
-
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
-
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+## 🎯 Goal
+I’m open to freelance collaborations and consulting projects.  
+If you’re looking for a data‑driven partner to help transform your business insights, let’s connect!

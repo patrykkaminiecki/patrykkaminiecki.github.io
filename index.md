@@ -7,11 +7,11 @@
 ✍️ This project features two interactive Tableau dashboards designed to analyze customer behavior and sales performance with year‑over‑year comparisons.
 **- Customer Dashboard:** Tracks total customers and growth trends, segments buyers by order frequency, and highlights the top 10 most profitable clients.
     
-  ![Customer Dashboard](images/Cover.png)
+  ![Customer Dashboard](images/Baraa1.png)
 
 **- Sales Dashboard:** Monitors sales, profit, and quantity, breaks down results by product subcategories, and visualizes weekly sales and profit trends.
     
-  ![Sales Dashboard](images/Cover2.png)
+  ![Sales Dashboard](images/Baraa2.png)
   
 
 🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
@@ -38,7 +38,7 @@
 
 ✍️ An interactive Power BI dashboard providing a high‑level overview of global sales performance, market distribution, and order prioritization.
 
-![Customer Dashboard](images/PlantCover.png)
+![Customer Dashboard](images/SalesCoverBI.png)
 
 **- Key Metrics:** Tracks total sales, average sales, total orders, profit per order, shipped orders, and shipping costs.
 **- Visual Insights:**
@@ -55,11 +55,14 @@
   
 ✍️ A Tableau dashboard designed to monitor workspace occupancy across multiple office locations in 2024, providing actionable insights for space optimization and resource planning.
 
-![Customer Dashboard](images/PlantCover.png)
-
 **- Summary View:** Tracks total seat utilization, usage trends over time, and weekday comparisons to identify peak and low occupancy periods.
+  
+  ![Customer Dashboard](images/SeatUtilizationOverview.png)
+  
 **- Detailed Analysis:** Offers seat‑level utilization tables with advanced filters by building, room type, and location, plus a utilization slider to spotlight under‑ or over‑used areas.
-
+  
+  ![Customer Dashboard](images/SeatDetails.png)
+  
 🔎 Helps facility managers and executives optimize office space allocation, reduce costs from under‑utilized areas, and make data‑driven decisions to improve workplace efficiency
 
 

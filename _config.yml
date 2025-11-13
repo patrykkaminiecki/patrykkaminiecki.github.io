@@ -2,7 +2,7 @@ title: "Patryk Kaminiecki"
 description: >
   <div style="text-align:center;">
     <img src="images/Me.jpg?raw=true" alt="Patryk Kaminiecki"
-         style="border-radius:50%; width:160px; height:160px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+         style="border-radius:50%; width:140px; height:140px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
   <br><br>
@@ -11,59 +11,59 @@ description: >
   </div>
 
   <br>
-  <div style="text-align:center; font-size:13px; font-family:cursive; font-weight:normal; color:#555;">
+  <div style="text-align:center; font-size:12px; font-family:cursive; font-weight:normal; color:#555;">
     I’m open to freelance collaborations and consulting projects. Feel free to reach out via LinkedIn or email.
   </div>
 
   <br><br>
-  <div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px; justify-items:center;">
     <a href="https://www.linkedin.com/in/patrykkaminiecki/" target="_blank"
        style="display:flex; align-items:center; justify-content:center; 
               background:linear-gradient(90deg, #004182, #0077B5); color:white; 
-              padding:10px 16px; text-decoration:none; border-radius:6px; 
-              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+              padding:8px 12px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:160px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:13px;">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-           alt="LinkedIn" width="20" height="20" style="margin-right:8px;">
-      View My Profile
+           alt="LinkedIn" width="18" height="18" style="margin-right:6px;">
+      LinkedIn
     </a>
 
     <a href="mailto:PatrykKaminiecki@gmail.com"
        style="display:flex; align-items:center; justify-content:center; 
               background:linear-gradient(90deg, #444, #cc0000); color:white; 
-              padding:10px 16px; text-decoration:none; border-radius:6px; 
-              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+              padding:8px 12px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:160px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:13px;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-           alt="Email" width="20" height="20" style="margin-right:8px;">
-      Contact Me
+           alt="Email" width="18" height="18" style="margin-right:6px;">
+      Email
     </a>
 
     <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank"
        style="display:flex; align-items:center; justify-content:center; 
               background:linear-gradient(90deg, #6fda44, #3c9d3c); color:white; 
-              padding:10px 16px; text-decoration:none; border-radius:6px; 
-              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+              padding:8px 12px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:160px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:13px;">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" 
-           alt="Upwork" width="20" height="20" style="margin-right:8px;">
+           alt="Upwork" width="18" height="18" style="margin-right:6px;">
       Upwork
     </a>
 
     <a href="https://www.fiverr.com/yourprofile" target="_blank"
        style="display:flex; align-items:center; justify-content:center; 
               background:linear-gradient(90deg, #1dbf73, #0d7a4f); color:white; 
-              padding:10px 16px; text-decoration:none; border-radius:6px; 
-              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+              padding:8px 12px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:160px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:13px;">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968703.png" 
-           alt="Fiverr" width="20" height="20" style="margin-right:8px;">
+           alt="Fiverr" width="18" height="18" style="margin-right:6px;">
       Fiverr
     </a>
 
     <a href="https://useme.com/pl/profiles/yourprofile" target="_blank"
        style="display:flex; align-items:center; justify-content:center; 
               background:linear-gradient(90deg, #0056b3, #003366); color:white; 
-              padding:10px 16px; text-decoration:none; border-radius:6px; 
-              font-weight:bold; width:240px; box-shadow:0 3px 6px rgba(0,0,0,0.15); font-size:14px;">
+              padding:8px 12px; text-decoration:none; border-radius:6px; 
+              font-weight:bold; width:160px; box-shadow:0 2px 4px rgba(0,0,0,0.15); font-size:13px;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732217.png" 
-           alt="Useme" width="20" height="20" style="margin-right:8px;">
+           alt="Useme" width="18" height="18" style="margin-right:6px;">
       Useme
     </a>
   </div>

@@ -7,11 +7,11 @@
 ✍️ This project features two interactive Tableau dashboards designed to analyze customer behavior and sales performance with year‑over‑year comparisons.
 - **Customer Dashboard:** Tracks total customers and growth trends, segments buyers by order frequency, and highlights the top 10 most profitable clients.
 
-images/Cover.png
+![Customer Dashboard](images/Cover.png)
   
 - **Sales Dashboard:** Monitors sales, profit, and quantity, breaks down results by product subcategories, and visualizes weekly sales and profit trends.
 
-images/Cover 2.png
+![Sales Dashboard](images/Cover2.png)
 
 🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
 

@@ -1,16 +1,35 @@
----
-layout: default
----
 
-# 📊 Patryk Kaminiecki
+## 🚀 Projects
 
-**Business & Reporting Analyst | Data Visualization Specialist | SQL & BI Expert**
-
-📧 PatrykKaminiecki@gmail.com  
-📱 +48 791 778 710  
-🔗 [LinkedIn](#) | [Portfolio](#)
+### 1. Sales and Customer Dashboard  
+🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about KPIs, insights, and business value.*
 
 ---
+
+### 2. Plant Co. Performance Dashboard  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about performance metrics and analysis.*
+
+---
+
+### 3. Sales Performance Dashboard  
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about sales trends and forecasting.*
+
+---
+
+### 4. Seats Utilization Dashboard  
+🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📷 *[Placeholder for image]*  
+✍️ *Description placeholder – add details about utilization rates and optimization.*
+
+---
+
+# Resume
 
 ## 💼 Experience
 
@@ -75,50 +94,4 @@ layout: default
 - Change Management Foundation (APMG International, 2019)  
 - AgilePM Foundation (APMG International, 2018)  
 - Financial Controller (MEN, 2016)  
-- Master of Excel (2015)  
-
----
-
-## 🚀 Projects
-
-### 1. Sales and Customer Dashboard  
-🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📷 *[Placeholder for image]*  
-✍️ *Description placeholder – add details about KPIs, insights, and business value.*
-
----
-
-### 2. Plant Co. Performance Dashboard  
-🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
-📷 *[Placeholder for image]*  
-✍️ *Description placeholder – add details about performance metrics and analysis.*
-
----
-
-### 3. Sales Performance Dashboard  
-🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
-📷 *[Placeholder for image]*  
-✍️ *Description placeholder – add details about sales trends and forecasting.*
-
----
-
-### 4. Seats Utilization Dashboard  
-🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📷 *[Placeholder for image]*  
-✍️ *Description placeholder – add details about utilization rates and optimization.*
-
----
-
-## ✨ Highlights
-
-- Reduced reporting time by **99%** through automation.  
-- Delivered KPI-driven dashboards for **global portfolio management**.  
-- Improved onboarding and training efficiency by **30%**.  
-- Consistently achieved **95–99% accuracy** in reporting and audits.  
-
----
-
-## 📂 Portfolio
-
-👉 [Portfolio Link](#)  
-👉 [GitHub Repositories](#)  
+- Master of Excel (2015) 

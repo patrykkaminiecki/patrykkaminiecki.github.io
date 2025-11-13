@@ -65,6 +65,8 @@ description: >
           text-decoration:none; border-radius:6px; font-weight:bold;
           font-size:12px; box-shadow:0 2px 4px rgba(0,0,0,0.15);">
   <img src="images/Useme.png" alt="Useme" width="20" height="20">
+        alt="Useme" width="16" height="16" style="margin-right:6px;">
+      Useme
     </a>
 
   </div>

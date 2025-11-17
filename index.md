@@ -44,7 +44,7 @@ It is a recreation of Mo Chan’s Coffee Dashboard, built to demonstrate advance
 
 - **Sales Overview:** Tracks total revenue, units sold, and average transaction value, with breakdowns by product type and region.  
 
-  ![Coffee Dashboard](images/CoffeeDashboard.png)  
+  ![Coffee Dashboard](images/CoffeeCover.png)  
 
 - **Trend Analysis:** Visualizes sales performance over time, highlights seasonal patterns, and compares product contributions.  
 

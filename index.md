@@ -42,9 +42,9 @@ layout: default
 ✍️ This project is an interactive Excel dashboard designed to analyze coffee sales across time, product categories, and regions.  
 It is a recreation of Mo Chan’s Coffee Dashboard, built to demonstrate advanced Excel features such as pivot tables, slicers, and dynamic formulas.  
 
-- **Sales Overview:** Tracks total revenue, units sold, and average transaction value, with breakdowns by product type and region.  
+  ![Coffee Dashboard](images/CoffeeCover.jpg)
 
-  ![Coffee Dashboard](images/CoffeeCover.png)  
+- **Sales Overview:** Tracks total revenue, units sold, and average transaction value, with breakdowns by product type and region.    
 
 - **Trend Analysis:** Visualizes sales performance over time, highlights seasonal patterns, and compares product contributions.  
 

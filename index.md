@@ -36,7 +36,23 @@ layout: default
 
 ---
 
-## 3. Sales Performance Dashboard [Power BI] 
+## 3. Coffee Sales Dashboard [Excel]  
+🔗 [View Project](https://github.com/patrykkaminiecki/Coffee-Sales-Dashboard.git)  
+
+✍️ This project is an interactive Excel dashboard designed to analyze coffee sales across time, product categories, and regions.  
+It is a recreation of Mo Chan’s Coffee Dashboard, built to demonstrate advanced Excel features such as pivot tables, slicers, and dynamic formulas.  
+
+- **Sales Overview:** Tracks total revenue, units sold, and average transaction value, with breakdowns by product type and region.  
+
+  ![Coffee Dashboard](images/CoffeeDashboard.png)  
+
+- **Trend Analysis:** Visualizes sales performance over time, highlights seasonal patterns, and compares product contributions.  
+
+🔎 Demonstrates skills in Excel data modeling, interactive dashboard design, and clear visual storytelling to support business decision‑making.
+
+---
+
+## 4. Sales Performance Dashboard [Power BI] 
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
 
 ✍️ An interactive Power BI dashboard providing a high‑level overview of global sales performance, market distribution, and order prioritization.
@@ -53,7 +69,7 @@ layout: default
 
 ---
 
-## 4. Seats Utilization Dashboard [Tableau] 
+## 5. Seats Utilization Dashboard [Tableau] 
 🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   
 ✍️ A Tableau dashboard designed to monitor workspace occupancy across multiple office locations in 2024, providing actionable insights for space optimization and resource planning.

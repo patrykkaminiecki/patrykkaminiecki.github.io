@@ -2,31 +2,30 @@
 layout: default
 ---
 
-# 🚀 Projects
+# Patryk Kaminiecki
 
-## 1. Sales and Customer Dashboard [Tableau]  
-🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+**The bridge between financial complexity and data clarity.**
 
-✍️ This project features two interactive Tableau dashboards designed to analyze customer behavior and sales performance with year‑over‑year comparisons.
+I turn financial data chaos into automated reporting systems that eliminate manual work. 10+ years inside financial services — from closing NAVs as a Fund Accountant to building the Power BI, Tableau, and SQL systems that close them faster.
 
-- **Sales Dashboard:** Monitors sales, profit, and quantity, breaks down results by product subcategories, and visualizes weekly sales and profit trends.
-  
-  ![Sales Dashboard](images/Baraa1.png)
-
-- **Customer Dashboard:** Tracks total customers and growth trends, segments buyers by order frequency, and highlights the top 10 most profitable clients.
-  
-  ![Customer Dashboard](images/Baraa2.png)
-
-🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
+📩 [LinkedIn](https://www.linkedin.com/in/patrykkaminiecki) · [Email](mailto:patrykkaminiecki@gmail.com)
 
 ---
 
-## 2. Plant Co. Performance Dashboard [Power BI] 
-🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
- 
-✍️ An interactive Power BI dashboard analyzing Plant Co.’s performance over three years, with a focus on profitability trends across products, geographies, and time.
+> *"For anyone looking for outstanding analysis, visualisations, and actionable insights, I highly recommend reaching out to him. His ability to transform complex data into clear, compelling visuals makes him a fantastic asset in any data-driven environment."*
+>
+> — **Anna Balandynowicz**, Head of Fund Admin Regulatory Change, SS&C Technologies
 
-  ![Customer Dashboard](images/PlantCover.png)
+---
+
+# 🚀 Projects
+
+## 1. Plant Co. Performance Dashboard [Power BI]
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
+
+✍️ An interactive Power BI dashboard analyzing Plant Co.'s performance over three years, with a focus on profitability trends across products, geographies, and time.
+
+  ![Plant Co. Dashboard](images/PlantCover.png)
 
 - **Performance Overview (YTD vs PYTD):** Tracks Gross Profit, Quantity, and Sales with variance analysis to highlight growth or decline.
 - **Market Insights:** Identifies underperforming countries via treemaps and visualizes monthly KPI shifts with waterfall and line charts.
@@ -36,28 +35,12 @@ layout: default
 
 ---
 
-## 3. Coffee Sales Dashboard [Excel]  
-🔗 [View Project](https://github.com/patrykkaminiecki/Coffee-Sales-Dashboard.git)  
-
-✍️ This project is an interactive Excel dashboard designed to analyze coffee sales across time, product categories, and regions.  
-It is a recreation of Mo Chan’s Coffee Dashboard, built to demonstrate advanced Excel features such as pivot tables, slicers, and dynamic formulas.  
-
-  ![Coffee Dashboard](images/CoffeeCover.jpg)
-
-- **Sales Overview:** Tracks total revenue, units sold, and average transaction value, with breakdowns by product type and region.    
-
-- **Trend Analysis:** Visualizes sales performance over time, highlights seasonal patterns, and compares product contributions.  
-
-🔎 Demonstrates skills in Excel data modeling, interactive dashboard design, and clear visual storytelling to support business decision‑making.
-
----
-
-## 4. Sales Performance Dashboard [Power BI] 
-🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)  
+## 2. Sales Performance Dashboard [Power BI]
+🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
 ✍️ An interactive Power BI dashboard providing a high‑level overview of global sales performance, market distribution, and order prioritization.
 
-  ![Customer Dashboard](images/SalesCoverBI.png)
+  ![Sales Performance Dashboard](images/SalesCoverBI.png)
 
 - **Key Metrics:** Tracks total sales, average sales, total orders, profit per order, shipped orders, and shipping costs.
 - **Visual Insights:**
@@ -69,21 +52,51 @@ It is a recreation of Mo Chan’s Coffee Dashboard, built to demonstrate advance
 
 ---
 
-## 5. Seats Utilization Dashboard [Tableau] 
-🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-  
+## 3. Seats Utilization Dashboard [Tableau]
+🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ✍️ A Tableau dashboard designed to monitor workspace occupancy across multiple office locations in 2024, providing actionable insights for space optimization and resource planning.
 
 - **Summary View:** Tracks total seat utilization, usage trends over time, and weekday comparisons to identify peak and low occupancy periods.
-  
-  ![Customer Dashboard](images/SeatUtilizationOverview.png)
-  
-- **Detailed Analysis:** Offers seat‑level utilization tables with advanced filters by building, room type, and location, plus a utilization slider to spotlight under‑ or over‑used areas.
-  
-  ![Customer Dashboard](images/SeatDetails.png)
-  
-🔎 Helps facility managers and executives optimize office space allocation, reduce costs from under‑utilized areas, and make data‑driven decisions to improve workplace efficiency
 
+  ![Seat Utilization Overview](images/SeatUtilizationOverview.png)
+
+- **Detailed Analysis:** Offers seat‑level utilization tables with advanced filters by building, room type, and location, plus a utilization slider to spotlight under‑ or over‑used areas.
+
+  ![Seat Details](images/SeatDetails.png)
+
+🔎 Helps facility managers and executives optimize office space allocation, reduce costs from under‑utilized areas, and make data‑driven decisions to improve workplace efficiency.
+
+---
+
+## 4. Sales and Customer Dashboard [Tableau]
+🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+✍️ Two interactive Tableau dashboards designed to analyze customer behavior and sales performance with year‑over‑year comparisons.
+
+- **Sales Dashboard:** Monitors sales, profit, and quantity, breaks down results by product subcategories, and visualizes weekly sales and profit trends.
+
+  ![Sales Dashboard](images/Baraa1.png)
+
+- **Customer Dashboard:** Tracks total customers and growth trends, segments buyers by order frequency, and highlights the top 10 most profitable clients.
+
+  ![Customer Dashboard](images/Baraa2.png)
+
+🔎 Demonstrates skills in data preparation, interactive dashboard design, and visual storytelling to support business decision‑making.
+
+---
+
+## 5. Coffee Sales Dashboard [Excel]
+🔗 [View Project](https://github.com/patrykkaminiecki/Coffee-Sales-Dashboard.git)
+
+✍️ An interactive Excel dashboard designed to analyze coffee sales across time, product categories, and regions. A recreation of Mo Chan's Coffee Dashboard, built to demonstrate advanced Excel features such as pivot tables, slicers, and dynamic formulas.
+
+  ![Coffee Dashboard](images/CoffeeCover.jpg)
+
+- **Sales Overview:** Tracks total revenue, units sold, and average transaction value, with breakdowns by product type and region.
+- **Trend Analysis:** Visualizes sales performance over time, highlights seasonal patterns, and compares product contributions.
+
+🔎 Demonstrates skills in Excel data modeling, interactive dashboard design, and clear visual storytelling to support business decision‑making.
 
 ---
 
@@ -91,65 +104,63 @@ It is a recreation of Mo Chan’s Coffee Dashboard, built to demonstrate advance
 
 ## 💼 Experience
 
-### Banqsoft, Gdańsk  
-**Business Analyst** (2025–Present)  
-- Collaborate with Product Manager, Product Owner, and Business Analysts to deliver client-specific solutions.  
-- Work closely with development teams to ensure successful implementation.  
+### Business Analyst — Banqsoft, Gdańsk *(2025–Present)*
+Building solutions for the financial services industry alongside Product and Engineering. Translate client needs into delivered features for banks and finance institutions.
 
-### State Street, Gdańsk  
-**Reporting Analyst** (2022–2025)  
-- Automated Tableau Server reporting, reducing generation time from 1 week to 1 hour.  
-- Designed a global portfolio reporting model in Power BI with automated ETL processes.  
-- Built office space utilization dashboards in Tableau for senior management.  
+### Reporting Analyst — State Street, Gdańsk *(2022–2025)*
+Modernized legacy reporting into automated, decision-ready Power BI and Tableau systems for global stakeholders.
+- **1 week → 1 hour** — automated a multi-source consolidation report (-99% time, zero manual errors).
+- **Hours → minutes** — built a global portfolio reporting model with end-to-end Power Query ETL.
+- Engineered a global office-space utilization dashboard for senior leadership.
 
-**Business Analyst** (2019–2022)  
-- Led EMEA-wide technology implementation projects, reducing manual errors by 70%.  
-- Developed documentation and training, cutting onboarding time by 30%.  
-- Enhanced Power BI dashboards based on stakeholder feedback, improving usability by 50%.  
+### Business Analyst — State Street, Gdańsk *(2019–2022)*
+Led EMEA-wide BA work on technology implementations and reporting platforms.
+- **-70% manual errors** across EMEA tech implementations.
+- **-30% onboarding time** via end-to-end documentation and training.
+- **+50% dashboard usability** through iterative Power BI improvements.
 
-**Fund Accountant, Gdańsk/Kraków** (2015–2019)  
-- Streamlined accounting tasks with data-driven reporting, boosting efficiency by 20%.  
-- Created KPIs for fund performance, reducing risk assessment time by 40%.  
-- Maintained 99% accuracy in fund valuation audits.  
+### Fund Accountant — State Street, Gdańsk *(2015–2019)*
+The foundation of everything I now build in BI. Owned daily NAV production for a portfolio of client funds.
+- **-40% risk assessment time** through fund-performance KPIs.
+- **99% pricing accuracy** across periodic valuation audits.
 
-### Transcom Worldwide, Gdańsk  
-**Verification Specialist** (2010–2015)  
-- Led verification projects for Citi Handlowy credit card sales with 98% accuracy.  
-- Designed case tracking systems, improving response time by 40%.  
-- Built dashboards for KPI monitoring, increasing efficiency by 25%.  
+### Verification Specialist — Transcom Worldwide, Gdańsk *(2010–2015)*
+Verification work for Citi Handlowy credit card sales.
+- 98% data validation accuracy across high-volume verification projects.
+- Designed an internal case-tracking system — response time -40%, backlog -50%.
 
 ---
 
 ## 🎓 Education
 
-- **Master of Banking and Financial Advisory**, University of Gdańsk (2012–2014)  
-- **Bachelor of Finance and Accounting**, University of Gdańsk (2009–2012)  
+- **Master's degree, Accounting and Finance** — University of Gdańsk (2009–2014)
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Data Visualization**: Tableau, Power BI  
-- **Data Management**: SQL, ETL Process Design  
-- **Productivity Tools**: Excel (Advanced), Microsoft Office  
-- **Methodologies**: Agile PM  
+- **Data Visualization:** Power BI, Tableau
+- **Data Management:** SQL, Power Query, ETL Process Design
+- **Productivity Tools:** Excel (Advanced)
+- **Domain:** Fund Accounting, Financial Reporting
+- **Methodologies:** Agile PM, Stakeholder Engagement
 
 ---
 
 ## 🌐 Languages
 
-- Polish (Native)  
-- English (Advanced – C1)  
+- Polish (Native)
+- English (Advanced – C1)
 
 ---
 
 ## 📜 Certifications
 
-- SQL Programming (NASBA, 2024)  
-- SQL Essential Training (NASBA, 2024)  
-- Data Visualization for Data Analysis and Analytics (IIBA, 2024)  
-- Tableau Essential Training (NASBA, 2024)  
-- Change Management Foundation (APMG International, 2019)  
-- AgilePM Foundation (APMG International, 2018)  
-- Financial Controller (MEN, 2016)  
-- Master of Excel (2015) 
+- SQL Programming (NASBA, 2024)
+- SQL Essential Training (NASBA, 2024)
+- Tableau Essential Training (NASBA, 2024)
+- Data Visualization for Data Analysis and Analytics (IIBA, 2024)
+- Change Management Foundation (APMG International, 2019)
+- AgilePM Foundation (APMG International, 2018)
+- Financial Controller (MEN, 2016)
+- Master of Excel (2015)

@@ -1,60 +1,70 @@
 # Patryk Kaminiecki – Portfolio
 
-Welcome to my professional portfolio repository.  
-Here you’ll find a collection of my projects, dashboards, and case studies showcasing my expertise in **Business Analysis, Data Transformation, and Reporting** using **Power BI, Tableau, and SQL**.
+**The bridge between financial complexity and data clarity.**
+
+I turn financial data chaos into automated reporting systems that eliminate manual work. 10+ years inside financial services — from closing NAVs as a Fund Accountant to building the Power BI, Tableau, and SQL systems that close them faster.
+
+🌐 **Live portfolio:** [patrykkaminiecki.github.io](https://patrykkaminiecki.github.io/)
 
 ---
 
 ## 🚀 Projects
 
-### 1. Sales and Customer Dashboard
-📊 Two interactive Tableau dashboards analyzing customer behavior and sales performance with year‑over‑year comparisons.  
-🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard)
-
----
-
-### 2. Plant Co. Performance Dashboard
-🏭 Power BI dashboard providing a 3‑year profitability analysis across products, geographies, and time.  
+### 1. Plant Co. Performance Dashboard *(Power BI)*
+🏭 Interactive Power BI dashboard analyzing 3 years of profitability across products, geographies, and time — with YTD vs PYTD variance, market treemaps, and segmentation by product type.
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
 ---
 
-### 3. Sales Performance Dashboard
-💹 Power BI dashboard offering a high‑level overview of global sales metrics, market segmentation, and order prioritization.  
+### 2. Sales Performance Dashboard *(Power BI)*
+💹 High‑level overview of global sales metrics, market distribution, and order prioritization — built with advanced DAX and dynamic visualizations.
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
 ---
 
-### 4. Seats Utilization Dashboard
-💺 Tableau dashboard analyzing workspace occupancy across office locations, supporting space optimization and resource planning.  
+### 3. Seats Utilization Dashboard *(Tableau)*
+💺 Tableau dashboard monitoring workspace occupancy across office locations — supports space optimization and data‑driven real estate decisions.
 🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview)
 
 ---
 
-## 💼 About Me
-I am a **Business Analyst** with over 10 years of experience in financial services, specializing in **data transformation, reporting, and visualization**.  
-I’m passionate about turning complex datasets into clear, actionable insights that drive business value.
+### 4. Sales and Customer Dashboard *(Tableau)*
+📊 Two interactive Tableau dashboards analyzing customer behavior and sales performance with year‑over‑year comparisons.
+🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard)
 
 ---
 
-## 📬 Contact
-- 🌐 [Portfolio Website](https://patrykkaminiecki.github.io/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/patrykkaminiecki/)  
-- 📧 Email: PatrykKaminiecki@gmail.com  
-- 🟢 [Upwork](https://www.upwork.com/freelancers/~yourprofile)  
-- 🟢 [Fiverr](https://www.fiverr.com/yourprofile)  
-- 🟢 [Useme](https://useme.com/pl/profiles/yourprofile)
+### 5. Coffee Sales Dashboard *(Excel)*
+☕ Interactive Excel dashboard analyzing coffee sales across time, products, and regions — built with pivot tables, slicers, and dynamic formulas.
+🔗 [View Project](https://github.com/patrykkaminiecki/Coffee-Sales-Dashboard)
+
+---
+
+## 💼 About Me
+
+Business Analyst with 10+ years in financial services. I started as a **Fund Accountant** closing NAVs under deadline pressure, then became the **Business Analyst** the team called when the spreadsheets stopped scaling.
+
+That path is my edge. Most analysts can build a report. Few can read a trial balance, challenge a fund accountant, and translate both into a system a COO will actually use to make a decision.
+
+**A few results from the last years:**
+- Cut a global consolidation report from **1 week → 1 hour** (-99% time)
+- Reduced manual error rates across EMEA implementations by **70%**
+- Collapsed data preparation on a global portfolio model from **hours → minutes**
 
 ---
 
 ## ⚡ Skills
-- **Data Visualization:** Tableau, Power BI  
-- **Data Management:** SQL, ETL Process Design  
-- **Methodologies:** Agile PM  
-- **Productivity Tools:** Excel (Advanced), Microsoft Office  
+
+- **Data Visualization:** Power BI, Tableau
+- **Data Management:** SQL, Power Query, ETL Process Design
+- **Productivity Tools:** Excel (Advanced)
+- **Domain:** Fund Accounting, Financial Reporting
+- **Methodologies:** Agile PM, Stakeholder Engagement
 
 ---
 
-## 🎯 Goal
-I’m open to freelance collaborations and consulting projects.  
-If you’re looking for a data‑driven partner to help transform your business insights, let’s connect!
+## 📬 Contact
+
+- 🌐 [Portfolio Website](https://patrykkaminiecki.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrykkaminiecki/)
+- 📧 [patrykkaminiecki@gmail.com](mailto:patrykkaminiecki@gmail.com)

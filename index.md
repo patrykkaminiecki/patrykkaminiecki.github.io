@@ -2,16 +2,6 @@
 layout: default
 ---
 
-# Patryk Kaminiecki
-
-**The bridge between financial complexity and data clarity.**
-
-I turn financial data chaos into automated reporting systems that eliminate manual work. 10+ years inside financial services — from closing NAVs as a Fund Accountant to building the Power BI, Tableau, and SQL systems that close them faster.
-
-📩 [LinkedIn](https://www.linkedin.com/in/patrykkaminiecki) · [Email](mailto:patrykkaminiecki@gmail.com)
-
----
-
 > *"For anyone looking for outstanding analysis, visualisations, and actionable insights, I highly recommend reaching out to him. His ability to transform complex data into clear, compelling visuals makes him a fantastic asset in any data-driven environment."*
 >
 > — **Anna Balandynowicz**, Head of Fund Admin Regulatory Change, SS&C Technologies

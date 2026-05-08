@@ -11,7 +11,7 @@ layout: default
 # 🚀 Projects
 
 ## 1. Savings Compass — Polish Bonds Savings Planner [React, JavaScript]
-🔗 [Live demo](https://patrykkaminiecki.github.io/savings-compass/index.html)
+🔗 [Live demo](https://patrykkaminiecki.github.io/savings-compass.html)
 
 ✍️ A bilingual (PL/EN) interactive savings planner that ranks all Polish Treasury savings bonds (ROR, DOR, TOS, COI, EDO, ROS, ROD) plus a benchmark savings account against a user's goal, amount and horizon. Inspired by the work of **Marcin Iwuc**.
 

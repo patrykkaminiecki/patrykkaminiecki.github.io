@@ -10,7 +10,23 @@ layout: default
 
 # 🚀 Projects
 
-## 1. Plant Co. Performance Dashboard [Power BI]
+## 1. Savings Compass — Polish Bonds Savings Planner [React, JavaScript]
+🔗 [Live demo](https://patrykkaminiecki.github.io/savings-compass/) · [Source](https://github.com/patrykkaminiecki/patrykkaminiecki.github.io/tree/main/tools/savings-compass)
+
+✍️ A bilingual (PL/EN) interactive savings planner that ranks all Polish Treasury savings bonds (ROR, DOR, TOS, COI, EDO, ROS, ROD) plus a benchmark savings account against a user's goal, amount and horizon. Inspired by the work of **Marcin Iwuc**.
+
+  ![Savings Compass](images/SavingsCompass.png)
+
+- **Personal flow:** 4-screen onboarding (name → goal → amount → horizon) with multi-goal comparison and inline editing.
+- **Financial engine:** Month-by-month simulation including capitalization vs. payout, series rollover, early-redemption fees, Belka tax and a parallel savings-account benchmark.
+- **What-if scenarios:** Live recalculation when the user adjusts inflation, NBP reference rate or savings-account rate.
+- **UX:** Apple-inspired design system, dark/light mode, fully responsive single-file React app (no build step).
+
+🔎 Demonstrates skills in product thinking, financial modeling, React and turning a personal-finance problem into a polished consumer tool.
+
+---
+
+## 2. Plant Co. Performance Dashboard [Power BI]
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
 ✍️ An interactive Power BI dashboard analyzing Plant Co.'s performance over three years, with a focus on profitability trends across products, geographies, and time.
@@ -25,7 +41,7 @@ layout: default
 
 ---
 
-## 2. Sales Performance Dashboard [Power BI]
+## 3. Sales Performance Dashboard [Power BI]
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
 ✍️ An interactive Power BI dashboard providing a high‑level overview of global sales performance, market distribution, and order prioritization.
@@ -42,7 +58,7 @@ layout: default
 
 ---
 
-## 3. Seats Utilization Dashboard [Tableau]
+## 4. Seats Utilization Dashboard [Tableau]
 🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ✍️ A Tableau dashboard designed to monitor workspace occupancy across multiple office locations in 2024, providing actionable insights for space optimization and resource planning.
@@ -59,7 +75,7 @@ layout: default
 
 ---
 
-## 4. Sales and Customer Dashboard [Tableau]
+## 5. Sales and Customer Dashboard [Tableau]
 🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ✍️ Two interactive Tableau dashboards designed to analyze customer behavior and sales performance with year‑over‑year comparisons.
@@ -76,7 +92,7 @@ layout: default
 
 ---
 
-## 5. Coffee Sales Dashboard [Excel]
+## 6. Coffee Sales Dashboard [Excel]
 🔗 [View Project](https://github.com/patrykkaminiecki/Coffee-Sales-Dashboard.git)
 
 ✍️ An interactive Excel dashboard designed to analyze coffee sales across time, product categories, and regions. A recreation of Mo Chan's Coffee Dashboard, built to demonstrate advanced Excel features such as pivot tables, slicers, and dynamic formulas.

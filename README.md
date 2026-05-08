@@ -10,31 +10,35 @@ I turn financial data chaos into automated reporting systems that eliminate manu
 
 ## 🚀 Projects
 
-### 1. Plant Co. Performance Dashboard *(Power BI)*
+### 1. Savings Compass — Polish Bonds Savings Planner *React, JavaScript*
+🏭 A bilingual (PL/EN) interactive savings planner that ranks all Polish Treasury savings bonds.
+🔗 [Live demo](https://patrykkaminiecki.github.io/savings-compass/)
+
+### 2. Plant Co. Performance Dashboard *(Power BI)*
 🏭 Interactive Power BI dashboard analyzing 3 years of profitability across products, geographies, and time — with YTD vs PYTD variance, market treemaps, and segmentation by product type.
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZTRhYzUtMzJiYy00OTRhLThiYzEtYjY3NTdmODI1MDg5IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
 ---
 
-### 2. Sales Performance Dashboard *(Power BI)*
+### 3. Sales Performance Dashboard *(Power BI)*
 💹 High‑level overview of global sales metrics, market distribution, and order prioritization — built with advanced DAX and dynamic visualizations.
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiNTY2YzcyNzgtYzJiMy00OGNlLWI2MzAtNzRjZjkyZDZmYTE1IiwidCI6ImE2MjQ0ZjZhLWZlZTgtNDA2Yy1hYjJkLTE4YTJkZWNlYmIzMSJ9)
 
 ---
 
-### 3. Seats Utilization Dashboard *(Tableau)*
+### 4. Seats Utilization Dashboard *(Tableau)*
 💺 Tableau dashboard monitoring workspace occupancy across office locations — supports space optimization and data‑driven real estate decisions.
 🔗 [View Project](https://public.tableau.com/views/SeatUtilisationDemo/Overview)
 
 ---
 
-### 4. Sales and Customer Dashboard *(Tableau)*
+### 5. Sales and Customer Dashboard *(Tableau)*
 📊 Two interactive Tableau dashboards analyzing customer behavior and sales performance with year‑over‑year comparisons.
 🔗 [View Project](https://public.tableau.com/views/SalesCustomersDashboards_17321298466710/SalesDashboard)
 
 ---
 
-### 5. Coffee Sales Dashboard *(Excel)*
+### 6. Coffee Sales Dashboard *(Excel)*
 ☕ Interactive Excel dashboard analyzing coffee sales across time, products, and regions — built with pivot tables, slicers, and dynamic formulas.
 🔗 [View Project](https://github.com/patrykkaminiecki/Coffee-Sales-Dashboard)
 

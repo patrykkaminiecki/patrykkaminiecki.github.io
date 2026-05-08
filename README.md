@@ -12,7 +12,7 @@ I turn financial data chaos into automated reporting systems that eliminate manu
 
 ### 1. Savings Compass — Polish Bonds Savings Planner *React, JavaScript*
 🏭 A bilingual (PL/EN) interactive savings planner that ranks all Polish Treasury savings bonds.
-🔗 [Live demo](https://patrykkaminiecki.github.io/savings-compass/)
+🔗 [Live demo](https://patrykkaminiecki.github.io/savings-compass/index.html)
 
 ### 2. Plant Co. Performance Dashboard *(Power BI)*
 🏭 Interactive Power BI dashboard analyzing 3 years of profitability across products, geographies, and time — with YTD vs PYTD variance, market treemaps, and segmentation by product type.
